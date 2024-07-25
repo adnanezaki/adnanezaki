@@ -18,8 +18,8 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
+          <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="65" height="65" />
+        <br>Angular
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -82,8 +82,8 @@
         <br>VSCode
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ IDEA" />
-        <br>IntelliJ IDEA
+          <img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" />
+        <br>Power BI
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
