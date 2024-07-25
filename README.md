@@ -60,8 +60,8 @@
         <br>Bootstrap
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=" width="48" height="48" alt=" Spring Boot" />
-        <br> Spring Boot
+          <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+        <br>Spring Boot
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -107,5 +107,4 @@
   <a href="https://www.linkedin.com/in/adnane-zaki-4973791b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
 </div>
