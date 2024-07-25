@@ -60,8 +60,8 @@
         <br>Bootstrap
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
+          <img src="https://skillicons.dev/icons?i=" width="48" height="48" alt=" Spring Boot" />
+        <br> Spring Boot
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
