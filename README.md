@@ -82,12 +82,12 @@
         <br>VSCode
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        <br>Sass
+          <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ IDEA" />
+        <br>IntelliJ IDEA
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-        <br>GraphQL
+          <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
