@@ -82,7 +82,7 @@
         <br>VSCode
       </td>
       <td align="center" width="96">
-          <img src="[https://skillicons.dev/icons?i=powerbi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png)" width="48" height="48" alt="Power BI" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/langfr-800px-New_Power_BI_Logo.svg.png" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="96">
