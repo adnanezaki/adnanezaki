@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Adnane ZAKI and I'm a Software Engineer 🧑‍💻, from Earth 🌍</h2>
 
 <p align="left">
-  Full Stack Engineer specializing in Spring Boot and Angular development. Passionate about building scalable SaaS solutions and enterprise applications. Currently working on international projects involving expense management systems and contract generation platforms.
+  Full Stack Engineer specializing in Spring Boot and Angular development. Passionate about building scalable SaaS solutions and enterprise applications. Currently working on international projects, including a SaaS platform for reservations with diverse services.
 </p>
 
 ### 🎯 Current Focus
