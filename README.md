@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Adnane ZAKI and I'm a Software Engineer 🧑‍💻, from Earth 🌍</h2>
 
 <p align="left">
-  I specialize in web and mobile development, currently pursuing my Master's degree in Web and Mobile Development at ÉSTIAM. I'm passionate about building efficient, scalable applications and constantly learning new technologies.
+  Software engineer specializing in web development and SaaS solutions. Passionate about building scalable, efficient applications and constantly exploring new technologies.
 </p>
 
 ### 📊 My GitHub Stats
