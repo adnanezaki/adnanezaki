@@ -116,6 +116,28 @@
   - Spring Security implementation
   - API documentation with Swagger
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <kbd>
+          <br>
+          <p align="center">
+            <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+          </p>
+          <br>
+          <h3 align="center">🔐 Private Projects</h3>
+          <p align="center">
+            <em>The best project I've worked on is private, but I'd be happy to discuss it further.</em><br>
+            <strong>Feel free to reach out! </strong>💫
+          </p>
+          <br>
+        </kbd>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 📬 Get in Touch
 
 <div align="left">
