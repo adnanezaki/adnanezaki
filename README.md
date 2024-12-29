@@ -1,8 +1,14 @@
 <h2 align="left">Hi 👋! My name is Adnane ZAKI and I'm a Software Engineer 🧑‍💻, from Earth 🌍</h2>
 
 <p align="left">
-  Software engineer specializing in web development and SaaS solutions. Passionate about building scalable, efficient applications and constantly exploring new technologies.
+  Full Stack Engineer specializing in Spring Boot and Angular development. Passionate about building scalable SaaS solutions and enterprise applications. Currently working on international projects involving expense management systems and contract generation platforms.
 </p>
+
+### 🎯 Current Focus
+- Building enterprise applications using Spring Boot and Angular 17
+- Developing secure, scalable microservices architectures
+- Implementing cloud solutions with Azure AD integration
+- Creating efficient ETL processes and business intelligence solutions
 
 ### 📊 My GitHub Stats
 
@@ -97,6 +103,18 @@
   </table>
   <br><br>
 </div>
+
+### 🚀 Featured Projects
+
+- **Enterprise Expense Management System** (ILEM Group)
+  - Full-stack application with Spring Boot & Angular 17
+  - Azure AD Authentication, Dashboard Analytics
+  - Docker deployment, PrimeNG UI components
+
+- **SaaS Contract Generation Platform** (HBM Solutions)
+  - Service-Oriented Architecture
+  - Spring Security implementation
+  - API documentation with Swagger
 
 ### 📬 Get in Touch
 
