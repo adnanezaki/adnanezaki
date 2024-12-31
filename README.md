@@ -8,7 +8,6 @@
 - Building enterprise applications using Spring Boot and Angular 17
 - Developing secure, scalable microservices architectures
 - Implementing cloud solutions with Azure AD integration
-- Creating efficient ETL processes and business intelligence solutions
 
 ### 📊 My GitHub Stats
 
