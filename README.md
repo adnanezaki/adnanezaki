@@ -12,9 +12,9 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/adnanezaki?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=adnanezaki&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@adnanezaki's github-readme-stats"/></a>
+<a href="https://github.com/adnanezaki?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=adnanezaki&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@adnanezaki's github-readme-stats"/><!--</a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adnanezaki&theme=tokyonight-duo&mode=weekly" alt="GitHub Streak" /></a>
-</p>
+</p>-->
 
 ### 💻 My Favorite Tools and Technologies
 
